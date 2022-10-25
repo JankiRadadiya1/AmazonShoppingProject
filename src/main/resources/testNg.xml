@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AmazonShopping Automation Test Suite">
+  <test  name="Amazon Shopping Test">
+    <classes>       
+       <class name="com.amazon.test.HomePageTest"/>
+       <class name="com.amazon.test.ShoppingPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
